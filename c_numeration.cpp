@@ -2,7 +2,7 @@
 
 c_numeration::c_numeration()
 {
-	m_nbBase10=0;
+	m_nbBase10=0; 
 }
 c_numeration::~c_numeration()
 {

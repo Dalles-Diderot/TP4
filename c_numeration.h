@@ -6,7 +6,7 @@
 
 class c_numeration
 {
-	private:
+	private: 
 		unsigned short m_nbBase10;
 	public:
 		c_numeration();
