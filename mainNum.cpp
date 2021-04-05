@@ -11,7 +11,7 @@ int main (int argc, char **argv)
 
 	char indBase=0, indNb=0 ;
 
-	//Si le nombre d'arguments est bien de 3 (eg:./tp4 187 -b)
+	//Si le nombre d'arguments est bien de 3 (eg: ./tp4 187 -b)
 	if(argc==3)
 	{ 
 		//On détermine où est l'option, où est le nombre grâce au caractère '-' (le nombre ne peut pas être négatif)
